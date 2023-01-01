@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "text-eff20"
+  },
+  "targets": {
+    "text-eff20": {
+      "hosting": {
+        "text-project": [
+          "text-eff20"
+        ]
+      }
+    }
+  }
+}
